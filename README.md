@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
+| [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Math
+|  |
+| ------- |
+| [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 <!---LeetCode Topics End-->

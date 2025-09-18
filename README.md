@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anantlok/Logic-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
@@ -50,4 +52,16 @@
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

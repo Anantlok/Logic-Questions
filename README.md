@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

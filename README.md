@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -56,6 +58,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |

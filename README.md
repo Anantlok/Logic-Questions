@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
@@ -106,4 +108,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

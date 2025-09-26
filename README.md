@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
+| [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,4 +136,5 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->

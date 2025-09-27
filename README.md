@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |

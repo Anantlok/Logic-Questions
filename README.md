@@ -57,6 +57,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
+| [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |

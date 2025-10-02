@@ -72,6 +72,7 @@
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1642-water-bottles](https://github.com/Anantlok/Logic-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |

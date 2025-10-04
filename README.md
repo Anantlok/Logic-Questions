@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |

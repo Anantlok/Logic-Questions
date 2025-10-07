@@ -31,6 +31,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
@@ -53,6 +54,7 @@
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -92,6 +94,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Anantlok/Logic-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -125,6 +128,7 @@
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer

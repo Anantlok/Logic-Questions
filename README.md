@@ -38,6 +38,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -115,6 +116,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 ## Merge Sort
 |  |
@@ -188,6 +191,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |

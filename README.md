@@ -40,6 +40,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
+| [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -78,6 +79,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
+| [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

@@ -32,6 +32,7 @@
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
@@ -130,6 +131,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |

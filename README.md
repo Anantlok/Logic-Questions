@@ -14,6 +14,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
+| [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
@@ -195,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |

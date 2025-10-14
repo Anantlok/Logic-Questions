@@ -35,6 +35,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anantlok/Logic-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
@@ -82,6 +83,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anantlok/Logic-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1970-sorting-the-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |

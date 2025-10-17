@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
@@ -172,6 +174,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |

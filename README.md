@@ -56,6 +56,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [4008-restore-finishing-order](https://github.com/Anantlok/Logic-Questions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@
 | [1970-sorting-the-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1970-sorting-the-sentence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Combinatorics
 |  |
 | ------- |

@@ -109,6 +109,7 @@
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Anantlok/Logic-Questions/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -122,6 +123,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/Anantlok/Logic-Questions/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -137,6 +139,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Anantlok/Logic-Questions/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |

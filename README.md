@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |

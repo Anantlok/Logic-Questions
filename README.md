@@ -66,6 +66,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/Anantlok/Logic-Questions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |

@@ -101,6 +101,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Anantlok/Logic-Questions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
@@ -129,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Anantlok/Logic-Questions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |

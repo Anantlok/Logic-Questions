@@ -29,6 +29,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
@@ -220,6 +221,7 @@
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -301,6 +304,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)

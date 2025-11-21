@@ -94,6 +94,7 @@
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anantlok/Logic-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -126,6 +127,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anantlok/Logic-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2365-percentage-of-letter-in-string](https://github.com/Anantlok/Logic-Questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
@@ -217,6 +219,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
@@ -297,6 +300,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |

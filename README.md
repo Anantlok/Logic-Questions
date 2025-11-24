@@ -115,6 +115,7 @@
 | [0520-detect-capital](https://github.com/Anantlok/Logic-Questions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -353,6 +354,7 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
 ## Memoization
 |  |

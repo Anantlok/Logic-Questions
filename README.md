@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
@@ -88,6 +89,7 @@
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -248,6 +250,7 @@
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |

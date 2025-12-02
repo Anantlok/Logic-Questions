@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -375,6 +376,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 ## Brainteaser
 |  |

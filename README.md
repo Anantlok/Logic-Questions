@@ -78,6 +78,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3731-find-missing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/Anantlok/Logic-Questions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3731-find-missing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/Anantlok/Logic-Questions/tree/master/4008-restore-finishing-order) |
 ## String
@@ -265,6 +267,7 @@
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantlok/Logic-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3731-find-missing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Anantlok/Logic-Questions/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |

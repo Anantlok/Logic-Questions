@@ -73,6 +73,7 @@
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -192,6 +193,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
 |  |

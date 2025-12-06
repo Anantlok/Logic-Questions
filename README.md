@@ -69,6 +69,7 @@
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantlok/Logic-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anantlok/Logic-Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -147,6 +148,7 @@
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Anantlok/Logic-Questions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anantlok/Logic-Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Anantlok/Logic-Questions/tree/master/3636-check-balanced-string) |
@@ -392,4 +394,20 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Anantlok/Logic-Questions/tree/master/2396-strictly-palindromic-number) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

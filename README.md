@@ -56,6 +56,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -140,6 +141,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Anantlok/Logic-Questions/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1970-sorting-the-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |

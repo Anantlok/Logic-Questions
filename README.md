@@ -54,6 +54,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/Anantlok/Logic-Questions/tree/master/1899-count-items-matching-a-rule) |
+| [1929-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
@@ -172,6 +173,7 @@
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anantlok/Logic-Questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Anantlok/Logic-Questions/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |

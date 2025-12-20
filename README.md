@@ -36,6 +36,7 @@
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
@@ -104,6 +105,7 @@
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
+| [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -135,6 +137,7 @@
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Anantlok/Logic-Questions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |

@@ -36,6 +36,7 @@
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Anantlok/Logic-Questions/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
@@ -106,6 +107,7 @@
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
+| [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -283,6 +285,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -345,6 +348,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |

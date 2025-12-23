@@ -1,7 +1,7 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
         nk= len(nums)
-    
+        #car
         for i in range(nk):
             while 1 <= nums[i] <= n and nums[nums[i]-1] != nums[i]:
                 correct_index = nums[i] - 1

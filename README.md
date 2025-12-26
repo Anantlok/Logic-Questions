@@ -162,6 +162,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/Anantlok/Logic-Questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
@@ -397,6 +398,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |

@@ -42,6 +42,7 @@
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anantlok/Logic-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
@@ -112,6 +113,7 @@
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anantlok/Logic-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |

@@ -149,6 +149,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1332-remove-palindromic-subsequences](https://github.com/Anantlok/Logic-Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1651-shuffle-string](https://github.com/Anantlok/Logic-Questions/tree/master/1651-shuffle-string) |
@@ -243,6 +244,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
+| [1332-remove-palindromic-subsequences](https://github.com/Anantlok/Logic-Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anantlok/Logic-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |

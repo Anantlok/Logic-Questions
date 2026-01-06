@@ -320,6 +320,7 @@
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -461,4 +463,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -1,5 +1,6 @@
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
+#prod
         nums.sort()
         n = len(nums)
         res = 0

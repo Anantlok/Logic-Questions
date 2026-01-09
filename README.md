@@ -230,6 +230,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anantlok/Logic-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |

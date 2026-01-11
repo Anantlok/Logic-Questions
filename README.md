@@ -137,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -237,6 +238,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
@@ -342,6 +344,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |

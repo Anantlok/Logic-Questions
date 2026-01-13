@@ -26,6 +26,7 @@
 | [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anantlok/Logic-Questions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anantlok/Logic-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Anantlok/Logic-Questions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
@@ -299,6 +302,7 @@
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -358,6 +362,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
@@ -371,6 +376,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |

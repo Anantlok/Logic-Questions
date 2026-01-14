@@ -213,6 +213,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
@@ -365,6 +366,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |

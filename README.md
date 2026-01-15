@@ -21,6 +21,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Anantlok/Logic-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -106,6 +107,7 @@
 | [0001-two-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Anantlok/Logic-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +280,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
@@ -295,6 +298,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -304,6 +308,7 @@
 | [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |

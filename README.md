@@ -18,6 +18,7 @@
 | [0015-3sum](https://github.com/Anantlok/Logic-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Anantlok/Logic-Questions/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +217,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anantlok/Logic-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |

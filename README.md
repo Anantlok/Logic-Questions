@@ -94,6 +94,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anantlok/Logic-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -402,6 +403,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |
 | ------- |

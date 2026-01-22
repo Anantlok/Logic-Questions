@@ -10,6 +10,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anantlok/Logic-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Anantlok/Logic-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -140,6 +142,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/Anantlok/Logic-Questions/tree/master/4008-restore-finishing-order) |
@@ -216,6 +219,7 @@
 | [2886-faulty-keyboard](https://github.com/Anantlok/Logic-Questions/tree/master/2886-faulty-keyboard) |
 | [3271-hash-divided-string](https://github.com/Anantlok/Logic-Questions/tree/master/3271-hash-divided-string) |
 | [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/3811-reverse-degree-of-a-string) |
@@ -440,6 +444,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -526,4 +531,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anantlok/Logic-Questions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

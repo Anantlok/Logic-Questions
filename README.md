@@ -77,6 +77,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2239-find-closest-number-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anantlok/Logic-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anantlok/Logic-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |

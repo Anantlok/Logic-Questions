@@ -230,6 +230,7 @@
 | [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
@@ -539,4 +540,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

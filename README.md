@@ -156,6 +156,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Anantlok/Logic-Questions/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/Anantlok/Logic-Questions/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Anantlok/Logic-Questions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/Anantlok/Logic-Questions/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |

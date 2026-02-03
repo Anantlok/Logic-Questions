@@ -7,7 +7,3 @@ class Solution:
                 return [dic[remainder],i]
             dic[val]=i
         
-                    
-
-
-        

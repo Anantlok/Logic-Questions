@@ -5,22 +5,30 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
+        if not head or not head.next:
             return head
-        n=0
-        k=[]
-        curr=head
-        while curr:
-            n+=1
-            k.append(curr.val)
+        fast=head.next
+        slow=head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+        mid=slow.next
+        slow.next=None
+        left=self.sortList(head)
+        right=self.sortList(mid)
+        return self.merge(left,right)
+    def merge(self,l1,l2):
+        dummy=ListNode(0)
+        curr=dummy
+        while l1 and l2:
+            if l1.val<l2.val:
+                curr.next=l1
+                l1=l1.next
+            else:
+                curr.next=l2
+                l2=l2.next
             curr=curr.next
-        k=sorted(k)
-        curr=head
-        i=0
-        while curr and i<len(k):
-            curr.val=k[i]
-            i+=1
-            curr=curr.next
-        return head
+        curr.next=l1 if l1 else l2
+        return dummy.next
 
         

@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anantlok/Logic-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anantlok/Logic-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Anantlok/Logic-Questions/tree/master/0141-linked-list-cycle) |
@@ -569,6 +570,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anantlok/Logic-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 ## Union-Find

@@ -15,6 +15,7 @@
 | [0146-lru-cache](https://github.com/Anantlok/Logic-Questions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
@@ -288,6 +289,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anantlok/Logic-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/Anantlok/Logic-Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |

@@ -16,7 +16,6 @@ class Solution:
                 list2=list2.next
             curr=curr.next
         curr.next=list1 if list1 else list2
-
         return dummy.next
             
         

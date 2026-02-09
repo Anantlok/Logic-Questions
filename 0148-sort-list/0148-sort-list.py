@@ -7,8 +7,8 @@ class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-        fast=head.next
         slow=head
+        fast=head.next
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
@@ -16,8 +16,8 @@ class Solution:
         slow.next=None
         left=self.sortList(head)
         right=self.sortList(mid)
-        return self.merge(left,right)
-    def merge(self,l1,l2):
+        return self.mergelist(left,right)
+    def mergelist(self,l1,l2):
         dummy=ListNode(0)
         curr=dummy
         while l1 and l2:
@@ -30,5 +30,4 @@ class Solution:
             curr=curr.next
         curr.next=l1 if l1 else l2
         return dummy.next
-
-        
+    

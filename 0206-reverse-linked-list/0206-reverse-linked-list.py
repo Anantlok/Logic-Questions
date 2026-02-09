@@ -12,6 +12,5 @@ class Solution:
             curr.next=prev
             prev=curr
             curr=nextt
-        print(prev)
         return prev
         

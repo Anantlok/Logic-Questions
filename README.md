@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anantlok/Logic-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Anantlok/Logic-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anantlok/Logic-Questions/tree/master/0141-linked-list-cycle) |
@@ -164,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anantlok/Logic-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Anantlok/Logic-Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0022-generate-parentheses) |
@@ -493,6 +495,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anantlok/Logic-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Anantlok/Logic-Questions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
 ## Stack

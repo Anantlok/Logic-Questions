@@ -2,12 +2,12 @@ class Node:
     def __init__(self,key,value):
         self.key=key
         self.value=value
-        self.prev=None
-        self.next=None
+        self.tail=None
+        self.head=None
 
 class LRUCache:
 
-    def __init__(self, capacity: int):
+    def __init__(self,capacity):
         self.capacity=capacity
         self.cache={}
         self.head=Node(0,0)
@@ -26,8 +26,8 @@ class LRUCache:
         node.prev=self.head
         node.next=first
         self.head.next=node
-        first.prev=node    
-
+        first.prev=node
+        
     def get(self, key: int) -> int:
         if key not in self.cache:
             return -1

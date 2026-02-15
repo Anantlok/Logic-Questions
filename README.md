@@ -169,6 +169,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Anantlok/Logic-Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Anantlok/Logic-Questions/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Anantlok/Logic-Questions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -221,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anantlok/Logic-Questions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -247,6 +249,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anantlok/Logic-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anantlok/Logic-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
@@ -431,6 +434,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |

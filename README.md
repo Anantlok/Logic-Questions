@@ -337,6 +337,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anantlok/Logic-Questions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -435,6 +436,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |

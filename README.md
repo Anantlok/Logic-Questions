@@ -441,6 +441,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anantlok/Logic-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Anantlok/Logic-Questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -521,6 +522,7 @@
 | [0022-generate-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Anantlok/Logic-Questions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Brainteaser

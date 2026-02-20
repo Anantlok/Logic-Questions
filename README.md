@@ -66,6 +66,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Anantlok/Logic-Questions/tree/master/1200-minimum-absolute-difference) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -364,6 +365,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Anantlok/Logic-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Anantlok/Logic-Questions/tree/master/1200-minimum-absolute-difference) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
@@ -413,6 +415,7 @@
 | [0120-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anantlok/Logic-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Queue
 |  |
@@ -460,6 +463,7 @@
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |

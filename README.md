@@ -604,4 +604,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anantlok/Logic-Questions/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anantlok/Logic-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

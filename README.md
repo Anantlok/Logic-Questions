@@ -69,6 +69,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Anantlok/Logic-Questions/tree/master/1470-shuffle-the-array) |
@@ -329,6 +330,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -367,6 +369,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Anantlok/Logic-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1970-sorting-the-sentence) |
@@ -450,6 +453,7 @@
 | [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anantlok/Logic-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |

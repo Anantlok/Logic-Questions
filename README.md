@@ -27,6 +27,7 @@
 | [0016-3sum-closest](https://github.com/Anantlok/Logic-Questions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Anantlok/Logic-Questions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Anantlok/Logic-Questions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Anantlok/Logic-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anantlok/Logic-Questions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Anantlok/Logic-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -532,6 +533,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anantlok/Logic-Questions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Anantlok/Logic-Questions/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Anantlok/Logic-Questions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |

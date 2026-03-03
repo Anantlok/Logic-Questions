@@ -183,6 +183,7 @@
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Anantlok/Logic-Questions/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
 | [0696-count-binary-substrings](https://github.com/Anantlok/Logic-Questions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anantlok/Logic-Questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Anantlok/Logic-Questions/tree/master/1642-water-bottles) |
@@ -259,6 +261,7 @@
 | [0268-missing-number](https://github.com/Anantlok/Logic-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anantlok/Logic-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

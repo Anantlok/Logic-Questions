@@ -77,6 +77,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anantlok/Logic-Questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anantlok/Logic-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Anantlok/Logic-Questions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Anantlok/Logic-Questions/tree/master/1656-count-good-triplets) |
@@ -319,6 +320,7 @@
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anantlok/Logic-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |

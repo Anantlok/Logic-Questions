@@ -172,6 +172,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anantlok/Logic-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anantlok/Logic-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Anantlok/Logic-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Anantlok/Logic-Questions/tree/master/0072-edit-distance) |
@@ -525,6 +526,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |

@@ -87,6 +87,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Anantlok/Logic-Questions/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [1980-find-unique-binary-string](https://github.com/Anantlok/Logic-Questions/tree/master/1980-find-unique-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -155,6 +156,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/Anantlok/Logic-Questions/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anantlok/Logic-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
@@ -203,6 +205,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Anantlok/Logic-Questions/tree/master/1899-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1970-sorting-the-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/Anantlok/Logic-Questions/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -544,6 +547,7 @@
 | [0216-combination-sum-iii](https://github.com/Anantlok/Logic-Questions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Anantlok/Logic-Questions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/Anantlok/Logic-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1980-find-unique-binary-string](https://github.com/Anantlok/Logic-Questions/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Brainteaser
 |  |

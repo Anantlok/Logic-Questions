@@ -217,6 +217,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Anantlok/Logic-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2365-percentage-of-letter-in-string](https://github.com/Anantlok/Logic-Questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
@@ -251,6 +252,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anantlok/Logic-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anantlok/Logic-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Anantlok/Logic-Questions/tree/master/2886-faulty-keyboard) |
 | [3271-hash-divided-string](https://github.com/Anantlok/Logic-Questions/tree/master/3271-hash-divided-string) |
 | [3336-water-bottles-ii](https://github.com/Anantlok/Logic-Questions/tree/master/3336-water-bottles-ii) |
@@ -537,6 +539,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
 |  |
 | ------- |

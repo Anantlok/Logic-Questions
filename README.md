@@ -104,6 +104,7 @@
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Anantlok/Logic-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantlok/Logic-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anantlok/Logic-Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |

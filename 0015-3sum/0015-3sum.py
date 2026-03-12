@@ -1,7 +1,7 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums=sorted(nums)
-        res=[]
+        res=[] #whaddyado
         n=len(nums)
         for i in range(n-2):
             if i>0 and nums[i]==nums[i-1]:

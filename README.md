@@ -633,5 +633,6 @@
 | [0175-combine-two-tables](https://github.com/Anantlok/Logic-Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Anantlok/Logic-Questions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Anantlok/Logic-Questions/tree/master/0183-customers-who-never-order) |
+| [0596-classes-with-at-least-5-students](https://github.com/Anantlok/Logic-Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anantlok/Logic-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

@@ -184,6 +184,7 @@
 | [0072-edit-distance](https://github.com/Anantlok/Logic-Questions/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Anantlok/Logic-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0205-isomorphic-strings) |
+| [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -483,6 +484,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Anantlok/Logic-Questions/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
@@ -540,6 +542,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
@@ -640,4 +643,8 @@
 | [0183-customers-who-never-order](https://github.com/Anantlok/Logic-Questions/tree/master/0183-customers-who-never-order) |
 | [0596-classes-with-at-least-5-students](https://github.com/Anantlok/Logic-Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anantlok/Logic-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
+| [0908-smallest-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anantlok/Logic-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anantlok/Logic-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -276,6 +277,7 @@
 | [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
+| [0908-smallest-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/0908-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anantlok/Logic-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

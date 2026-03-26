@@ -74,6 +74,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1436-destination-city](https://github.com/Anantlok/Logic-Questions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/Anantlok/Logic-Questions/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Anantlok/Logic-Questions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -158,6 +159,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anantlok/Logic-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1436-destination-city](https://github.com/Anantlok/Logic-Questions/tree/master/1436-destination-city) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantlok/Logic-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -206,6 +208,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/Anantlok/Logic-Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/Anantlok/Logic-Questions/tree/master/1436-destination-city) |
 | [1651-shuffle-string](https://github.com/Anantlok/Logic-Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anantlok/Logic-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |

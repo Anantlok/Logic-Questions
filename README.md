@@ -52,6 +52,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anantlok/Logic-Questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
+| [0539-minimum-time-difference](https://github.com/Anantlok/Logic-Questions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -197,6 +198,7 @@
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Anantlok/Logic-Questions/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/Anantlok/Logic-Questions/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/Anantlok/Logic-Questions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
@@ -280,6 +282,7 @@
 | [0326-power-of-three](https://github.com/Anantlok/Logic-Questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Anantlok/Logic-Questions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/Anantlok/Logic-Questions/tree/master/0539-minimum-time-difference) |
 | [0908-smallest-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/0908-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/Anantlok/Logic-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1148-adding-two-negabinary-numbers) |
@@ -387,6 +390,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anantlok/Logic-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Anantlok/Logic-Questions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |

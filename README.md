@@ -232,6 +232,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Anantlok/Logic-Questions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anantlok/Logic-Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |

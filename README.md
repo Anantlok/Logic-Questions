@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Anantlok/Logic-Questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Anantlok/Logic-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anantlok/Logic-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anantlok/Logic-Questions/tree/master/0069-sqrtx) |

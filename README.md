@@ -239,6 +239,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/Anantlok/Logic-Questions/tree/master/3194-find-words-containing-character) |
 | [3271-hash-divided-string](https://github.com/Anantlok/Logic-Questions/tree/master/3271-hash-divided-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Anantlok/Logic-Questions/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anantlok/Logic-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -505,6 +506,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Combinatorics
 |  |
@@ -591,6 +593,7 @@
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |

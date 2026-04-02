@@ -120,6 +120,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anantlok/Logic-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anantlok/Logic-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantlok/Logic-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -350,6 +351,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anantlok/Logic-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantlok/Logic-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anantlok/Logic-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting
 |  |
@@ -453,6 +455,7 @@
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantlok/Logic-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Queue
 |  |
 | ------- |

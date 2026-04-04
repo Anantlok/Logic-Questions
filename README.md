@@ -16,6 +16,7 @@
 | [0148-sort-list](https://github.com/Anantlok/Logic-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anantlok/Logic-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
@@ -300,6 +301,7 @@
 | [2491-smallest-even-multiple](https://github.com/Anantlok/Logic-Questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Anantlok/Logic-Questions/tree/master/2556-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Anantlok/Logic-Questions/tree/master/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anantlok/Logic-Questions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -535,6 +537,7 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Anantlok/Logic-Questions/tree/master/2491-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anantlok/Logic-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |

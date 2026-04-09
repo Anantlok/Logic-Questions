@@ -195,6 +195,7 @@
 | [0383-ransom-note](https://github.com/Anantlok/Logic-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anantlok/Logic-Questions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Anantlok/Logic-Questions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Anantlok/Logic-Questions/tree/master/0500-keyboard-row) |
@@ -504,6 +505,7 @@
 | [0011-container-with-most-water](https://github.com/Anantlok/Logic-Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Anantlok/Logic-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Anantlok/Logic-Questions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Anantlok/Logic-Questions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
@@ -564,6 +566,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
@@ -669,4 +672,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

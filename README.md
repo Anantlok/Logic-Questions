@@ -58,6 +58,7 @@
 | [0611-valid-triangle-number](https://github.com/Anantlok/Logic-Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anantlok/Logic-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Anantlok/Logic-Questions/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/Anantlok/Logic-Questions/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
@@ -384,6 +385,7 @@
 | [0191-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantlok/Logic-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anantlok/Logic-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 | [0020-valid-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anantlok/Logic-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Anantlok/Logic-Questions/tree/master/2128-reverse-prefix-of-word) |
@@ -624,6 +627,7 @@
 | [0100-same-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -631,6 +635,7 @@
 | [0100-same-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Anantlok/Logic-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Monotonic Queue
 |  |
@@ -673,4 +678,5 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anantlok/Logic-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anantlok/Logic-Questions/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->

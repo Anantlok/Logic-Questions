@@ -6,5 +6,3 @@ class Solution:
             if remainder in dic:
                 return [dic[remainder],i]
             dic[j]=i
-
-        

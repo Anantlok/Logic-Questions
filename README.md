@@ -90,6 +90,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1816-truncate-sentence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Anantlok/Logic-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1899-count-items-matching-a-rule](https://github.com/Anantlok/Logic-Questions/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |

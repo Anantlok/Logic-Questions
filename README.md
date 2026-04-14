@@ -218,6 +218,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1436-destination-city](https://github.com/Anantlok/Logic-Questions/tree/master/1436-destination-city) |
 | [1651-shuffle-string](https://github.com/Anantlok/Logic-Questions/tree/master/1651-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anantlok/Logic-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Anantlok/Logic-Questions/tree/master/1816-truncate-sentence) |
@@ -518,6 +519,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anantlok/Logic-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |

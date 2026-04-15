@@ -109,6 +109,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantlok/Logic-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Anantlok/Logic-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -238,6 +239,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantlok/Logic-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |

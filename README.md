@@ -114,6 +114,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Anantlok/Logic-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Anantlok/Logic-Questions/tree/master/2881-split-strings-by-separator) |
+| [2906-construct-product-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantlok/Logic-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anantlok/Logic-Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anantlok/Logic-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -360,6 +361,7 @@
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Anantlok/Logic-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anantlok/Logic-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2906-construct-product-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anantlok/Logic-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantlok/Logic-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anantlok/Logic-Questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -562,6 +564,7 @@
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Anantlok/Logic-Questions/tree/master/2714-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anantlok/Logic-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window

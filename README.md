@@ -97,6 +97,7 @@
 | [1980-find-unique-binary-string](https://github.com/Anantlok/Logic-Questions/tree/master/1980-find-unique-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Anantlok/Logic-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anantlok/Logic-Questions/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Anantlok/Logic-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anantlok/Logic-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anantlok/Logic-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -525,6 +526,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anantlok/Logic-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anantlok/Logic-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Anantlok/Logic-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Anantlok/Logic-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |

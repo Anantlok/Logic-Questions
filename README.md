@@ -86,6 +86,7 @@
 | [1635-number-of-good-pairs](https://github.com/Anantlok/Logic-Questions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Anantlok/Logic-Questions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Anantlok/Logic-Questions/tree/master/1656-count-good-triplets) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantlok/Logic-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anantlok/Logic-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anantlok/Logic-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
@@ -443,6 +444,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantlok/Logic-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -673,6 +675,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anantlok/Logic-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantlok/Logic-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Design
 |  |
 | ------- |

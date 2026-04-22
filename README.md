@@ -110,6 +110,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anantlok/Logic-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anantlok/Logic-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Anantlok/Logic-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantlok/Logic-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anantlok/Logic-Questions/tree/master/2678-number-of-senior-citizens) |
@@ -240,6 +241,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anantlok/Logic-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Anantlok/Logic-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Anantlok/Logic-Questions/tree/master/2399-check-distances-between-same-letters) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Anantlok/Logic-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anantlok/Logic-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Anantlok/Logic-Questions/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantlok/Logic-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -612,6 +614,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anantlok/Logic-Questions/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Anantlok/Logic-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |

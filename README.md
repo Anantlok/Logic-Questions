@@ -75,6 +75,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anantlok/Logic-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anantlok/Logic-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anantlok/Logic-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anantlok/Logic-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/Anantlok/Logic-Questions/tree/master/1436-destination-city) |
@@ -363,6 +364,7 @@
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantlok/Logic-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Anantlok/Logic-Questions/tree/master/1791-richest-customer-wealth) |
@@ -450,6 +452,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantlok/Logic-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
@@ -461,6 +464,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Anantlok/Logic-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Anantlok/Logic-Questions/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anantlok/Logic-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
@@ -684,6 +688,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anantlok/Logic-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantlok/Logic-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantlok/Logic-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Design

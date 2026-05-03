@@ -217,6 +217,7 @@
 | [0696-count-binary-substrings](https://github.com/Anantlok/Logic-Questions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Anantlok/Logic-Questions/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Anantlok/Logic-Questions/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/Anantlok/Logic-Questions/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Anantlok/Logic-Questions/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anantlok/Logic-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/Anantlok/Logic-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -640,6 +641,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Anantlok/Logic-Questions/tree/master/0796-rotate-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anantlok/Logic-Questions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anantlok/Logic-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function

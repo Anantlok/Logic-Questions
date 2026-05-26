@@ -2,7 +2,7 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         seen=set()#code
-        left=0
+        left=0 #how to fix
         maxlen=0
         for right in range(len(s)):
             while s[right] in seen:

@@ -4,6 +4,7 @@
 #         self.val = vals
 #         self.next = next
 class Solution:
+#whatever
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy=ListNode(0)
         curr=dummy

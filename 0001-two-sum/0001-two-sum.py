@@ -7,6 +7,6 @@ class Solution:
                 return [dic[remainder],i]
             dic[j]=i
         print(dic)
-#bruj
+#brujhhhh
 
         

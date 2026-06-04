@@ -342,6 +342,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anantlok/Logic-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anantlok/Logic-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/Anantlok/Logic-Questions/tree/master/3567-convert-date-to-binary) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anantlok/Logic-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anantlok/Logic-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -508,6 +509,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anantlok/Logic-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Anantlok/Logic-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantlok/Logic-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Queue
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Anantlok/Logic-Questions/tree/master/1656-count-good-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anantlok/Logic-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anantlok/Logic-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
